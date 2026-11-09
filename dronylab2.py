@@ -1,0 +1,10 @@
+
+print("Zadanie #2")
+teksta = str(input())
+tekstb = str(2)
+print(teksta + tekstb)
+print(teksta + teksta + teksta)
+liczbac = int(8)
+liczbad = int(2)
+print(liczbac + liczbad)
+print(liczbac - liczbad)
